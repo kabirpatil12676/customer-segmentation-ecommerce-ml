@@ -104,7 +104,7 @@ pip install pandas matplotlib seaborn scikit-learn kneed
 ```bash
 # Clone the repository
 git clone https://github.com/kabirpatil12676/customer-segmentation-ecommerce-ml.git
-cd smartcart-clustering-system
+cd customer-segmentation-ecommerce-ml
 
 # Launch Jupyter Notebook
 jupyter notebook SmartCart_Clustering_Project.ipynb
